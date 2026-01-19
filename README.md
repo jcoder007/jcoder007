@@ -1,4 +1,4 @@
-## 👋 Olá, Eu sou um Desenvolvedor Front-End em início de carreira.
+## 👋 Olá! Desenvolvedor Front-End em início de carreira.
 
 
 ## 🚀 Sobre mim
