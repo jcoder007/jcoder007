@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Olá, Eu sou um Desenvolvedor Front-End em início de carreira.
 
-<!--
-**jcoder007/jcoder007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+👨‍💻 Desenvolvedor Front-End em início de carreira, focado em aprender, praticar e evoluir continuamente.  
+Atualmente desenvolvo projetos utilizando **HTML e CSS**, e estou aprofundando meus estudos em **JavaScript e React**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em criar interfaces modernas, responsivas e bem estruturadas, sempre buscando boas práticas de desenvolvimento.
+
+## 🛠️ Tecnologias
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+
+## 📚 Atualmente estudando
+- JavaScript (ES6+)
+- React (componentes, props, hooks)
+- Boas práticas de Front-End
+- Responsividade e organização de código
+
+
+## 📌 Objetivo
+Conseguir minha primeira oportunidade como **Desenvolvedor Front-End Júnior ou Estagiário**, aplicando na prática tudo o que venho aprendendo.
+
+
+
+---
+⭐ Em constante aprendizado, um projeto por vez.
